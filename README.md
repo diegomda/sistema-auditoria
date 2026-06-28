@@ -36,3 +36,16 @@ Basada en **PHP + MySQL**, con integración a **Google Drive/OneDrive** para rep
 
 ## 📌 Conclusiones
 El sistema asegura transparencia y eficiencia en auditorías, con trazabilidad completa y soporte visual.
+
+
+## 📊 Diagramas
+
+### Organigrama de Roles
+![Organigrama](docs/organigrama.png)
+
+### Flujo de Incidencias
+![Flujo](docs/flujo.png)
+
+### Mapa de Navegación
+![Mapa](docs/navegacion.png)
+
